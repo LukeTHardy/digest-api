@@ -1,0 +1,72 @@
+[
+  {
+    "model": "digestapi.category",
+    "pk": 1,
+    "fields": {
+      "name": "Mystery"
+    }
+  },
+  {
+    "model": "digestapi.category",
+    "pk": 2,
+    "fields": {
+      "name": "Science Fiction"
+    }
+  },
+  {
+    "model": "digestapi.category",
+    "pk": 3,
+    "fields": {
+      "name": "Romance"
+    }
+  },
+  {
+    "model": "digestapi.category",
+    "pk": 4,
+    "fields": {
+      "name": "Fantasy"
+    }
+  },
+  {
+    "model": "digestapi.category",
+    "pk": 5,
+    "fields": {
+      "name": "Thriller"
+    }
+  },
+  {
+    "model": "digestapi.category",
+    "pk": 6,
+    "fields": {
+      "name": "Historical Fiction"
+    }
+  },
+  {
+    "model": "digestapi.category",
+    "pk": 7,
+    "fields": {
+      "name": "Biography"
+    }
+  },
+  {
+    "model": "digestapi.category",
+    "pk": 8,
+    "fields": {
+      "name": "Self-Help"
+    }
+  },
+  {
+    "model": "digestapi.category",
+    "pk": 9,
+    "fields": {
+      "name": "Science"
+    }
+  },
+  {
+    "model": "digestapi.category",
+    "pk": 10,
+    "fields": {
+      "name": "Cooking"
+    }
+  }
+]

@@ -1,0 +1,272 @@
+[
+  {
+    "model": "digestapi.bookcategory",
+    "pk": 1,
+    "fields": {
+      "category": 1,
+      "book": 1,
+      "date": "2023-01-01"
+    }
+  },
+  {
+    "model": "digestapi.bookcategory",
+    "pk": 2,
+    "fields": {
+      "category": 3,
+      "book": 1,
+      "date": "2023-02-01"
+    }
+  },
+  {
+    "model": "digestapi.bookcategory",
+    "pk": 3,
+    "fields": {
+      "category": 5,
+      "book": 1,
+      "date": "2023-03-01"
+    }
+  },
+  {
+    "model": "digestapi.bookcategory",
+    "pk": 4,
+    "fields": {
+      "category": 2,
+      "book": 2,
+      "date": "2023-01-02"
+    }
+  },
+  {
+    "model": "digestapi.bookcategory",
+    "pk": 5,
+    "fields": {
+      "category": 4,
+      "book": 2,
+      "date": "2023-02-02"
+    }
+  },
+  {
+    "model": "digestapi.bookcategory",
+    "pk": 6,
+    "fields": {
+      "category": 6,
+      "book": 2,
+      "date": "2023-03-02"
+    }
+  },
+  {
+    "model": "digestapi.bookcategory",
+    "pk": 7,
+    "fields": {
+      "category": 7,
+      "book": 3,
+      "date": "2023-01-03"
+    }
+  },
+  {
+    "model": "digestapi.bookcategory",
+    "pk": 8,
+    "fields": {
+      "category": 9,
+      "book": 3,
+      "date": "2023-02-03"
+    }
+  },
+  {
+    "model": "digestapi.bookcategory",
+    "pk": 9,
+    "fields": {
+      "category": 10,
+      "book": 3,
+      "date": "2023-03-03"
+    }
+  },
+  {
+    "model": "digestapi.bookcategory",
+    "pk": 10,
+    "fields": {
+      "category": 1,
+      "book": 4,
+      "date": "2023-01-04"
+    }
+  },
+  {
+    "model": "digestapi.bookcategory",
+    "pk": 11,
+    "fields": {
+      "category": 3,
+      "book": 4,
+      "date": "2023-02-04"
+    }
+  },
+  {
+    "model": "digestapi.bookcategory",
+    "pk": 12,
+    "fields": {
+      "category": 5,
+      "book": 4,
+      "date": "2023-03-04"
+    }
+  },
+  {
+    "model": "digestapi.bookcategory",
+    "pk": 13,
+    "fields": {
+      "category": 2,
+      "book": 5,
+      "date": "2023-01-05"
+    }
+  },
+  {
+    "model": "digestapi.bookcategory",
+    "pk": 14,
+    "fields": {
+      "category": 4,
+      "book": 5,
+      "date": "2023-02-05"
+    }
+  },
+  {
+    "model": "digestapi.bookcategory",
+    "pk": 15,
+    "fields": {
+      "category": 6,
+      "book": 5,
+      "date": "2023-03-05"
+    }
+  },
+  {
+    "model": "digestapi.bookcategory",
+    "pk": 16,
+    "fields": {
+      "category": 7,
+      "book": 6,
+      "date": "2023-01-06"
+    }
+  },
+  {
+    "model": "digestapi.bookcategory",
+    "pk": 17,
+    "fields": {
+      "category": 9,
+      "book": 6,
+      "date": "2023-02-06"
+    }
+  },
+  {
+    "model": "digestapi.bookcategory",
+    "pk": 18,
+    "fields": {
+      "category": 10,
+      "book": 6,
+      "date": "2023-03-06"
+    }
+  },
+  {
+    "model": "digestapi.bookcategory",
+    "pk": 19,
+    "fields": {
+      "category": 1,
+      "book": 7,
+      "date": "2023-01-07"
+    }
+  },
+  {
+    "model": "digestapi.bookcategory",
+    "pk": 20,
+    "fields": {
+      "category": 3,
+      "book": 7,
+      "date": "2023-02-07"
+    }
+  },
+  {
+    "model": "digestapi.bookcategory",
+    "pk": 21,
+    "fields": {
+      "category": 5,
+      "book": 7,
+      "date": "2023-03-07"
+    }
+  },
+  {
+    "model": "digestapi.bookcategory",
+    "pk": 22,
+    "fields": {
+      "category": 2,
+      "book": 8,
+      "date": "2023-01-08"
+    }
+  },
+  {
+    "model": "digestapi.bookcategory",
+    "pk": 23,
+    "fields": {
+      "category": 4,
+      "book": 8,
+      "date": "2023-02-08"
+    }
+  },
+  {
+    "model": "digestapi.bookcategory",
+    "pk": 24,
+    "fields": {
+      "category": 6,
+      "book": 8,
+      "date": "2023-03-08"
+    }
+  },
+  {
+    "model": "digestapi.bookcategory",
+    "pk": 25,
+    "fields": {
+      "category": 7,
+      "book": 9,
+      "date": "2023-01-09"
+    }
+  },
+  {
+    "model": "digestapi.bookcategory",
+    "pk": 26,
+    "fields": {
+      "category": 9,
+      "book": 9,
+      "date": "2023-02-09"
+    }
+  },
+  {
+    "model": "digestapi.bookcategory",
+    "pk": 27,
+    "fields": {
+      "category": 10,
+      "book": 9,
+      "date": "2023-03-09"
+    }
+  },
+  {
+    "model": "digestapi.bookcategory",
+    "pk": 28,
+    "fields": {
+      "category": 1,
+      "book": 10,
+      "date": "2023-01-10"
+    }
+  },
+  {
+    "model": "digestapi.bookcategory",
+    "pk": 29,
+    "fields": {
+      "category": 3,
+      "book": 10,
+      "date": "2023-02-10"
+    }
+  },
+  {
+    "model": "digestapi.bookcategory",
+    "pk": 30,
+    "fields": {
+      "category": 5,
+      "book": 10,
+      "date": "2023-03-10"
+    }
+  }
+]

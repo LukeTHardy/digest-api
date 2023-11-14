@@ -1,0 +1,112 @@
+[
+  {
+    "model": "digestapi.book",
+    "pk": 1,
+    "fields": {
+      "user": 1,
+      "title": "The Great Gatsby",
+      "author": "F. Scott Fitzgerald",
+      "isbn_number": "9781234567890",
+      "cover_image": "https://example.com/great-gatsby.jpg"
+    }
+  },
+  {
+    "model": "digestapi.book",
+    "pk": 2,
+    "fields": {
+      "user": 1,
+      "title": "To Kill a Mockingbird",
+      "author": "Harper Lee",
+      "isbn_number": "9780987654321",
+      "cover_image": "https://example.com/to-kill-a-mockingbird.jpg"
+    }
+  },
+  {
+    "model": "digestapi.book",
+    "pk": 3,
+    "fields": {
+      "user": 1,
+      "title": "1984",
+      "author": "George Orwell",
+      "isbn_number": "9785678901234",
+      "cover_image": "https://example.com/1984.jpg"
+    }
+  },
+  {
+    "model": "digestapi.book",
+    "pk": 4,
+    "fields": {
+      "user": 1,
+      "title": "Pride and Prejudice",
+      "author": "Jane Austen",
+      "isbn_number": "9780123456789",
+      "cover_image": "https://example.com/pride-and-prejudice.jpg"
+    }
+  },
+  {
+    "model": "digestapi.book",
+    "pk": 5,
+    "fields": {
+      "user": 1,
+      "title": "The Catcher in the Rye",
+      "author": "J.D. Salinger",
+      "isbn_number": "9789876543210",
+      "cover_image": "https://example.com/catcher-in-the-rye.jpg"
+    }
+  },
+  {
+    "model": "digestapi.book",
+    "pk": 6,
+    "fields": {
+      "user": 1,
+      "title": "Harry Potter and the Sorcerer's Stone",
+      "author": "J.K. Rowling",
+      "isbn_number": "9785432109876",
+      "cover_image": "https://example.com/harry-potter.jpg"
+    }
+  },
+  {
+    "model": "digestapi.book",
+    "pk": 7,
+    "fields": {
+      "user": 1,
+      "title": "The Hobbit",
+      "author": "J.R.R. Tolkien",
+      "isbn_number": "9783210987654",
+      "cover_image": "https://example.com/the-hobbit.jpg"
+    }
+  },
+  {
+    "model": "digestapi.book",
+    "pk": 8,
+    "fields": {
+      "user": 1,
+      "title": "The Lord of the Rings",
+      "author": "J.R.R. Tolkien",
+      "isbn_number": "9784567890123",
+      "cover_image": "https://example.com/lotr.jpg"
+    }
+  },
+  {
+    "model": "digestapi.book",
+    "pk": 9,
+    "fields": {
+      "user": 1,
+      "title": "The Da Vinci Code",
+      "author": "Dan Brown",
+      "isbn_number": "9786789012345",
+      "cover_image": "https://example.com/da-vinci-code.jpg"
+    }
+  },
+  {
+    "model": "digestapi.book",
+    "pk": 10,
+    "fields": {
+      "user": 1,
+      "title": "The Shining",
+      "author": "Stephen King",
+      "isbn_number": "9788901234567",
+      "cover_image": "https://example.com/the-shining.jpg"
+    }
+  }
+]
